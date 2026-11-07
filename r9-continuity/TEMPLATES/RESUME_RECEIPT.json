@@ -1,0 +1,16 @@
+{
+  "schema": "generic.resume_receipt.v1",
+  "checkpoint_id": null,
+  "manifest_hash": null,
+  "observed_at": null,
+  "current_artifact": null,
+  "integrity_result": null,
+  "actual_worker_observations": [],
+  "state_reality_deltas": [],
+  "settled_decisions_preserved": [],
+  "ready_work": [],
+  "holds": [],
+  "next_action": null,
+  "runtime_integration_tested": false,
+  "restores_execution_authority": false
+}

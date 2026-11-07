@@ -1,0 +1,20 @@
+{
+  "scope": "Only files in this r9-continuity directory, excluding this manifest. Documentation only; no private-state backup.",
+  "files": [
+    {
+      "path": "r9-continuity/README.md",
+      "bytes": 668,
+      "sha256": "b392af9f483b4374426ac039505f594d3d2f4870ff172d90b100302b9491f86f"
+    },
+    {
+      "path": "r9-continuity/CONTINUITY_PROTOCOL.md",
+      "bytes": 2247,
+      "sha256": "79af1e5a0375012589c1102936c20776adaff0ad816bd89c3d6e73998622bf27"
+    },
+    {
+      "path": "r9-continuity/TEMPLATES/RESUME_RECEIPT.json",
+      "bytes": 414,
+      "sha256": "ac7afde384dd2f994476635d94fd4de435af0af2822fe7b7e4f1d26f3bcb4bc4"
+    }
+  ]
+}
