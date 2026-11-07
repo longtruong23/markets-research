@@ -1,0 +1,10 @@
+Thực hiện đúng task được giao trong input riêng.
+
+Đọc baseline, file được phép sửa, contract, tests/evidence đã có và lỗi còn mở. Chỉ sửa vùng được giao; dùng test/fixture riêng cho phần độc lập. Không giả API hoặc module để che thiếu input.
+
+Dùng lại bằng chứng còn hợp lệ. Thiếu input thì hoàn thành phần độc lập có căn cứ, sau đó nêu đúng phần cần thêm. Không lặp cùng công việc đã xong.
+
+Xuất patch/test có phạm vi, RESULT.json, báo cáo ngắn, command/OS/exit code/log thực chạy và manifest hash tự tính. Ghi rõ NOT_RUN và giới hạn reference/current. Không tự nhận nghiệm thu môi trường chưa chạy.
+
+Giữ bản lỗi đầu tiên. Không tự áp patch vào runtime, tạo writer thứ hai hoặc thực hiện hành động broker. Bàn giao về coordinator để tích hợp và QA.
+

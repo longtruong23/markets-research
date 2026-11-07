@@ -1,0 +1,188 @@
+{
+  "schema_version": 1,
+  "archive_scope": "PUBLIC_WORKFLOW_METADATA_ONLY",
+  "task_result_review_scope": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+  "entries": [
+    {
+      "task_id": "T01",
+      "title": "Hợp đồng dữ liệu và dependency",
+      "category": "tests",
+      "result_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+      "scope_source": "Use the privately supplied current task assignment and contract.",
+      "expected_deliverable": "A scoped patch or test package, actual validation evidence, and explicit limitations.",
+      "current_input_required_for_acceptance": true
+    },
+    {
+      "task_id": "T02",
+      "title": "Startup ứng dụng cách ly",
+      "category": "integration_tests",
+      "result_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+      "scope_source": "Use the privately supplied current task assignment and contract.",
+      "expected_deliverable": "A scoped patch or test package, actual validation evidence, and explicit limitations.",
+      "current_input_required_for_acceptance": true
+    },
+    {
+      "task_id": "T03",
+      "title": "Ranh giới thực thi",
+      "category": "regression_tests",
+      "result_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+      "scope_source": "Use the privately supplied current task assignment and contract.",
+      "expected_deliverable": "A scoped patch or test package, actual validation evidence, and explicit limitations.",
+      "current_input_required_for_acceptance": true
+    },
+    {
+      "task_id": "T04",
+      "title": "UI, dispatcher và hàng đợi điều khiển",
+      "category": "integration",
+      "result_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+      "scope_source": "Use the privately supplied current task assignment and contract.",
+      "expected_deliverable": "A scoped patch or test package, actual validation evidence, and explicit limitations.",
+      "current_input_required_for_acceptance": true
+    },
+    {
+      "task_id": "T05",
+      "title": "Receipt và quyền thực thi",
+      "category": "contract_tests",
+      "result_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+      "scope_source": "Use the privately supplied current task assignment and contract.",
+      "expected_deliverable": "A scoped patch or test package, actual validation evidence, and explicit limitations.",
+      "current_input_required_for_acceptance": true
+    },
+    {
+      "task_id": "T06",
+      "title": "Vòng đời quyền và binding",
+      "category": "regression_tests",
+      "result_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+      "scope_source": "Use the privately supplied current task assignment and contract.",
+      "expected_deliverable": "A scoped patch or test package, actual validation evidence, and explicit limitations.",
+      "current_input_required_for_acceptance": true
+    },
+    {
+      "task_id": "T07",
+      "title": "Bàn giao từ pending sang quản lý vị thế",
+      "category": "integration",
+      "result_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+      "scope_source": "Use the privately supplied current task assignment and contract.",
+      "expected_deliverable": "A scoped patch or test package, actual validation evidence, and explicit limitations.",
+      "current_input_required_for_acceptance": true
+    },
+    {
+      "task_id": "T08",
+      "title": "Trailing theo timeframe",
+      "category": "policy_tests",
+      "result_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+      "scope_source": "Use the privately supplied current task assignment and contract.",
+      "expected_deliverable": "A scoped patch or test package, actual validation evidence, and explicit limitations.",
+      "current_input_required_for_acceptance": true
+    },
+    {
+      "task_id": "T09",
+      "title": "Lựa chọn profile thủ công",
+      "category": "policy_tests",
+      "result_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+      "scope_source": "Use the privately supplied current task assignment and contract.",
+      "expected_deliverable": "A scoped patch or test package, actual validation evidence, and explicit limitations.",
+      "current_input_required_for_acceptance": true
+    },
+    {
+      "task_id": "T10",
+      "title": "Các chế độ quản lý hiện có",
+      "category": "feature_tests",
+      "result_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+      "scope_source": "Use the privately supplied current task assignment and contract.",
+      "expected_deliverable": "A scoped patch or test package, actual validation evidence, and explicit limitations.",
+      "current_input_required_for_acceptance": true
+    },
+    {
+      "task_id": "T11",
+      "title": "Số học chi phí và khối lượng",
+      "category": "numeric_tests",
+      "result_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+      "scope_source": "Use the privately supplied current task assignment and contract.",
+      "expected_deliverable": "A scoped patch or test package, actual validation evidence, and explicit limitations.",
+      "current_input_required_for_acceptance": true
+    },
+    {
+      "task_id": "T12",
+      "title": "Luồng hủy và đặt lại theo kế hoạch",
+      "category": "state_machine_tests",
+      "result_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+      "scope_source": "Use the privately supplied current task assignment and contract.",
+      "expected_deliverable": "A scoped patch or test package, actual validation evidence, and explicit limitations.",
+      "current_input_required_for_acceptance": true
+    },
+    {
+      "task_id": "T13",
+      "title": "Kế hoạch theo vùng giá",
+      "category": "policy_tests",
+      "result_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+      "scope_source": "Use the privately supplied current task assignment and contract.",
+      "expected_deliverable": "A scoped patch or test package, actual validation evidence, and explicit limitations.",
+      "current_input_required_for_acceptance": true
+    },
+    {
+      "task_id": "T14",
+      "title": "Quyền và điều kiện bổ sung vị thế",
+      "category": "policy_tests",
+      "result_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+      "scope_source": "Use the privately supplied current task assignment and contract.",
+      "expected_deliverable": "A scoped patch or test package, actual validation evidence, and explicit limitations.",
+      "current_input_required_for_acceptance": true
+    },
+    {
+      "task_id": "T15",
+      "title": "Quản lý TP và khối lượng",
+      "category": "integration",
+      "result_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+      "scope_source": "Use the privately supplied current task assignment and contract.",
+      "expected_deliverable": "A scoped patch or test package, actual validation evidence, and explicit limitations.",
+      "current_input_required_for_acceptance": true
+    },
+    {
+      "task_id": "T16",
+      "title": "Điều hướng và trạng thái giao diện",
+      "category": "ui_tests",
+      "result_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+      "scope_source": "Use the privately supplied current task assignment and contract.",
+      "expected_deliverable": "A scoped patch or test package, actual validation evidence, and explicit limitations.",
+      "current_input_required_for_acceptance": true
+    },
+    {
+      "task_id": "T17",
+      "title": "Audit và replay",
+      "category": "observability_tests",
+      "result_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+      "scope_source": "Use the privately supplied current task assignment and contract.",
+      "expected_deliverable": "A scoped patch or test package, actual validation evidence, and explicit limitations.",
+      "current_input_required_for_acceptance": true
+    },
+    {
+      "task_id": "T18",
+      "title": "Lưu trạng thái và khôi phục",
+      "category": "failure_boundary_tests",
+      "result_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+      "scope_source": "Use the privately supplied current task assignment and contract.",
+      "expected_deliverable": "A scoped patch or test package, actual validation evidence, and explicit limitations.",
+      "current_input_required_for_acceptance": true
+    },
+    {
+      "task_id": "T19",
+      "title": "Môi trường chạy và khôi phục triển khai",
+      "category": "environment_readiness",
+      "result_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+      "scope_source": "Use the privately supplied current task assignment and contract.",
+      "expected_deliverable": "A scoped patch or test package, actual validation evidence, and explicit limitations.",
+      "current_input_required_for_acceptance": true
+    },
+    {
+      "task_id": "T20",
+      "title": "Đóng gói và tiếp nhận kết quả",
+      "category": "tooling",
+      "result_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+      "scope_source": "Use the privately supplied current task assignment and contract.",
+      "expected_deliverable": "A scoped patch or test package, actual validation evidence, and explicit limitations.",
+      "current_input_required_for_acceptance": true
+    }
+  ]
+}
+

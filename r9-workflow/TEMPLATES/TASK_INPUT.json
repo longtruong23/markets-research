@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "template_only": true,
+  "task_id": null,
+  "revision": null,
+  "mode": "TESTS_ONLY",
+  "snapshot_id": null,
+  "base_zip_sha256": null,
+  "git_commit": null,
+  "allowed_edits": [],
+  "read_only_files": [],
+  "input_files": [],
+  "shared_api_contracts": [],
+  "existing_tests_and_evidence": [],
+  "known_failures": [],
+  "task_dependencies": [],
+  "integrator": null,
+  "issue_attempt_count": null,
+  "note": "Use a private current input package; a generic template grants no live action authority."
+}
+

@@ -1,0 +1,14 @@
+Tiếp tục dùng các gói Web theo vòng nhận kết quả và giao việc tiếp, giữ coordinator và nhóm tích hợp hiện hành.
+
+Nhận từng gói ngay khi về. Giữ bản gốc/hash, kiểm status, baseline, touched files, dependency và test evidence. Ghi quyết định tiếp nhận riêng: ACCEPTED, REUSED, NEEDS_INPUT, REBASE_NEEDED, QA_FAILED hoặc SUPERSEDED.
+
+Đối chiếu theo file/dependency; hash ZIP thay đổi không tự làm mất giá trị mọi bằng chứng. Ghép từng cụm nhỏ, QA phần ảnh hưởng và đường kết hợp. Không đợi đủ mọi gói, không overlay sibling patches.
+
+Task được chấp nhận thì đóng. Task thiếu dữ liệu nhận đúng input bổ sung cùng ID/revision mới. Task lỗi nhận repro cụ thể. Task hết hiệu lực vì successor thì đánh dấu thay thế. Không giao lại cả danh sách từ đầu.
+
+Ưu tiên khoảng trống chặn luồng xuyên ứng dụng và những phần còn thiếu của phạm vi đã thống nhất. Nếu hàng chờ review/ghép tăng thì xử lý hàng chờ trước khi mở thêm. Khi đủ input và năng lực nhận kết quả, tiếp tục giao các task độc lập.
+
+Giữ lịch báo cáo hiện có và giới hạn thử engineering đã thống nhất. Báo tiến độ bằng các gap đã đóng trên candidate chung, phần còn thiếu và bước tiếp; không dùng số ZIP hoặc tổng test PASS thay cho nghiệm thu.
+
+Checkpoint công khai chỉ chứa quy trình/metadata đã lọc. Source, patch, log và dữ liệu runtime tiếp tục ở nơi lưu riêng. Không thiết lập auto-publish hoặc auto-deploy từ prompt này.
+

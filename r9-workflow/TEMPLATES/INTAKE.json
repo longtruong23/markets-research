@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "template_only": true,
+  "task_id": null,
+  "result_revision": null,
+  "result_sha256": null,
+  "original_worker_status": null,
+  "current_candidate_id": null,
+  "reviewed_by": null,
+  "disposition": null,
+  "allowed_dispositions": [
+    "ACCEPTED",
+    "REUSED",
+    "NEEDS_INPUT",
+    "REBASE_NEEDED",
+    "QA_FAILED",
+    "SUPERSEDED"
+  ],
+  "accepted_paths": [],
+  "preserved_failures": [],
+  "remaining_gap": null,
+  "next_action": null,
+  "next_owner": null,
+  "evidence_refs": [],
+  "current_offline_feature_accepted": false,
+  "broker_feature_verified": false,
+  "note": "Keep this decision separate from the immutable original worker report. Runtime and broker evidence belong in private records."
+}
+

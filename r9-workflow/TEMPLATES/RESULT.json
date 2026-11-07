@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "template_only": true,
+  "task_id": null,
+  "status": null,
+  "allowed_statuses": [
+    "READY_FOR_INTEGRATION",
+    "REFERENCE_RESULTS",
+    "REUSE_EXISTING",
+    "NEEDS_INPUT"
+  ],
+  "input_snapshot_id": null,
+  "input_archive_sha256": null,
+  "input_files": [],
+  "changed_files": [],
+  "depends_on": [],
+  "test_runs": [],
+  "not_run": [],
+  "coverage_reused": [],
+  "first_failures": [],
+  "findings": [],
+  "next_action": null,
+  "release_approved": false,
+  "note": "Fill only with measured facts. READY_FOR_INTEGRATION is a worker proposal, not acceptance by the integrator."
+}
+

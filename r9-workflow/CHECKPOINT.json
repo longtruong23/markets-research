@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "created_local_date": "2026-11-07",
+  "timezone": "Australia/Sydney",
+  "checkpoint_kind": "SANITIZED_WORKFLOW_CHECKPOINT",
+  "task_definitions_prepared": 20,
+  "task_result_review_status": "NOT_REVIEWED_IN_THIS_CHECKPOINT",
+  "result_packages_reviewed_in_this_checkpoint": 0,
+  "received_package_count": null,
+  "accepted_current_feature_count": null,
+  "open_gap_count": null,
+  "runtime_deployment_performed": false,
+  "broker_action_performed": false,
+  "autonomous_sync_configured": false,
+  "included": [
+    "generic task catalog",
+    "workflow",
+    "input and result templates",
+    "intake template",
+    "generic continuation prompts",
+    "integrity manifest"
+  ],
+  "excluded": [
+    "bot source",
+    "patches and raw archives",
+    "raw logs and runtime evidence",
+    "credentials and account data",
+    "deployment configuration",
+    "private storage URLs",
+    "private strategy parameters"
+  ],
+  "note": "This is not a complete project backup, executable candidate, test acceptance, or release approval."
+}
+

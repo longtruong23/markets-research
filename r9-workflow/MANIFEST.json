@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "scope": "PUBLIC_WORKFLOW_METADATA_ONLY",
+  "hash": "SHA-256",
+  "self_excluded": "MANIFEST.json",
+  "files": [
+    {
+      "path": "CHECKPOINT.json",
+      "bytes": 1057,
+      "sha256": "976fad84852a810c2af1cd6e9ece1a7e2a945b272a702434b8f7b41dd3b1ca52"
+    },
+    {
+      "path": "PROMPTS/COORDINATOR_NEXT_WAVE.txt",
+      "bytes": 1718,
+      "sha256": "1477065c0661ba966a9626ab457036242e1ba973a00d89143ada3d95d8186a8c"
+    },
+    {
+      "path": "PROMPTS/WEB_TASK_COMMON.txt",
+      "bytes": 932,
+      "sha256": "22ae3f13b93f9334794ea408e1b0b5bd9156e5f119d60928b5425bf19a3b90f2"
+    },
+    {
+      "path": "PUBLIC_ARCHIVE_SCOPE.md",
+      "bytes": 1185,
+      "sha256": "1ebc296216ac6fd5a64608ac1f6070606f556c1f5ce943dc7e638d6e2a01ee18"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1648,
+      "sha256": "977040717048a5e9e1c074a0fe975d21a4de7fe2a1436d27c472c5dd0df67f82"
+    },
+    {
+      "path": "TASK_CATALOG.json",
+      "bytes": 9100,
+      "sha256": "a123ac764a7c71e95c2def6c8eafcad1a278587010643768c1f072323155c306"
+    },
+    {
+      "path": "TEMPLATES/INTAKE.json",
+      "bytes": 737,
+      "sha256": "6b5933239c312dfba292991a472b48f992574e9b314651dc5e3553f007e264c3"
+    },
+    {
+      "path": "TEMPLATES/RESULT.json",
+      "bytes": 614,
+      "sha256": "efd4d80eba8f49c157bdb2b106db4326b37a28ffc188129f6acfa1cabf05fc12"
+    },
+    {
+      "path": "TEMPLATES/TASK_INPUT.json",
+      "bytes": 529,
+      "sha256": "99e4c050485934099cef2d25725bde633fafed1a9ed96a2a096447383ac88122"
+    },
+    {
+      "path": "WORKFLOW.md",
+      "bytes": 3450,
+      "sha256": "1ab64b2d3417de7d47cb1704d24a8ac68cacec5a652b76c86f9c9f6c1cf4e2ad"
+    }
+  ]
+}
